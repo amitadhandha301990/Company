@@ -1,4 +1,4 @@
-# Company
+# Company Management Structure
 
 This project demonstrates a CRUD (Create, Read, Update, Delete) application built using FastAPI, a modern Python framework for building APIs. The application provides a streamlined and efficient backend solution for managing resources, featuring:
 
